@@ -1,4 +1,4 @@
-FROM rhel17
+FROM ubuntu:12.04
 MAINTAINER GP gpkapu@gmail.com
 
 # Install dependencies
